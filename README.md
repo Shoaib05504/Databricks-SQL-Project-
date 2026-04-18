@@ -71,5 +71,6 @@ It also demonstrates how real-world datasets can be analyzed to extract meaningf
 
 ---
 ## Author
-Shoaib S W \n
+Shoaib S W  
 BE Student
+
