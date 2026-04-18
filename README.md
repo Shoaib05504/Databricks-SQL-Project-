@@ -70,5 +70,6 @@ This project helped in understanding practical usage of SQL in Databricks, inclu
 It also demonstrates how real-world datasets can be analyzed to extract meaningful insights.
 
 ---
-##Author
+## Author
 Shoaib S W
+BE Student
